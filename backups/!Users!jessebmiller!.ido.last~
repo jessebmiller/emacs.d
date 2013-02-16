@@ -1,0 +1,86 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/jessebmiller/projects/jecms/static/" . "css/")
+ ("/Users/jessebmiller/projects/jecms/" . "static/")
+ ("/" . "Users/")
+ ("/Users/jessebmiller/projects/jessebmiller.com/static/" . "js/")
+ ("/Users/jessebmiller/projects/jessebmiller.com/" . "static/")
+ ("/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/" . "jmppresents/")
+ ("/Users/jessebmiller/projects/JasonMichaelPaul/" . "jmppresents/")
+ ("/Users/jessebmiller/projects/" . "forgreatgood/")
+ ("/Users/" . "jessebmiller/")
+ ("/Users/jessebmiller/.solarized/" . "emacs-colors-solarized/")
+ ("/Users/jessebmiller/" . "projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/jessebmiller/projects/forgreatgood/"
+ "/Users/jessebmiller/projects/tyson/"
+ "/Users/jessebmiller/projects/jecms/"
+ "/Users/jessebmiller/projects/jessebmiller.com/static/js/"
+ "/Users/jessebmiller/projects/jecms/static/css/"
+ "/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/jmppresents/"
+ "/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/"
+ "/Users/jessebmiller/.emacs.d/"
+ "/Users/jessebmiller/.solarized/emacs-colors-solarized/"
+ "/Users/jessebmiller/projects/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "defun.hs"
+ "thoughts.org"
+ "README.md"
+ "tyson.js"
+ "content.html"
+ "tyson.html"
+ "jecms.js"
+ "j6m.js"
+ "jecms.html"
+ "site.less"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/jessebmiller/projects/forgreatgood/" (20755 20272) "../" "./")
+
+ ("/Users/jessebmiller/projects/" (20755 20272) "WebType/" "tyson/" "technigami/" "slip/" "old/" "mustache.js/" "lukehaynes.com/" "lukehaynes/" "johnnyattero.com/" "jessebmiller.com/" "jecms.old/" "JasonMichaelPaul/" "import-content/" "gurls/" "google-closure-library/" "gitolite-admin/" "forgreatgood/" "code_pices/" "240x360.psd" ".DS_Store" "../" "./")
+
+ ("/Users/jessebmiller/projects/tyson/" (20755 20292) "tyson.js" "tyson.html" "tyson.css" "todo.org" "thoughts.org" "README.md" "content.html" ".meteor/" ".gitignore~" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/jessebmiller/.emacs.d/" (20754 36794) "TODO" "starter-kit-ruby.elc" "starter-kit-ruby.el" "starter-kit-registers.elc" "starter-kit-registers.el" "starter-kit-python.elc" "starter-kit-python.el" "starter-kit-perl.elc" "starter-kit-perl.el" "starter-kit-misc.elc" "starter-kit-misc.el" "starter-kit-lisp.elc" "starter-kit-lisp.el" "starter-kit-js.elc" "starter-kit-js.el" "starter-kit-eshell.elc" "starter-kit-eshell.el" "starter-kit-elpa.elc" "starter-kit-elpa.el" "starter-kit-defuns.elc" "starter-kit-defuns.el" "starter-kit-completion.elc" "starter-kit-completion.el" "starter-kit-bindings.elc" "starter-kit-bindings.el" "scripts/" "README.markdown" "python-libs/" "places" "package.elc" "package.el" "loaddefs.el" "init.el" "elpa-to-submit/" "elpa/" "dominating-file.elc" "dominating-file.el" "custom.el" "COPYING" "backups/" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" "#COPYING#" "../" "./")
+
+ ("/Users/jessebmiller/projects/jecms/" (20754 36682) "jecms.less" "jecms.js" "jecms.html" ".meteor/" ".#jecms.js" ".#jecms.html" "#jecms.js#" "#jecms.html#" "../" "./")
+
+ ("/Users/jessebmiller/projects/jessebmiller.com/" (20752 45297) "static/" "README.md" "index.html" "discussions/" "design/" ".gitignore~" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/jessebmiller/projects/jecms/static/css/" (20752 49018) "site.less" "../" "./")
+
+ ("/Users/jessebmiller/projects/jecms/static/" (20752 45384) "js/" "img/" "css/" "../" "./")
+
+ ("/Users/jessebmiller/" (20752 47106) "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
+
+ ("/User Guides And Information/" (20020 35719) "The FreeType Project License.rtf" "MacBook Air 13-inch Users Guide.pdf" "ENERGY STAR.pdf" "AirPort Extreme and Bluetooth Regulatory Certification.pdf" ".localized/" ".fseventsd/" "../" "./")
+
+ ("/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/" (20734 3009) "wireframes/" "tasks.org~" "tasks.org" "static/" "milwakeShow.org" "meeting.org~" "meeting.org" "jmppresents/" "index.html~" "index.html" "events/" ".gitignore~" ".gitignore" ".git/" ".DS_Store" ".#milwakeShow.org" "#milwakeShow.org#" "../" "./")
+
+ ("/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/jmppresents/" (20735 25698) "urls.pyc" "urls.py" "templates/" "static/" "settings.py~" "settings.pyc" "settings.py" "requirements/" "manage.py" "local_settings.pyc" "local_settings.py" "fabfile.py" "dev.db.fix" "dev.db" "deploy/" "apps/" "__init__.pyc" "__init__.py" ".hgignore" ".gitignore~" ".gitignore" ".env/" "#settings.py#" "../" "./")
+
+ ("/Users/jessebmiller/projects/jessebmiller.com/static/js/" (20741 57499) "slip.js" "setLayout.js~" "setLayout.js" "run.js~" "require.js~" "require.js" "mustache.js" "j6m.js~" "j6m.js" "google-closure-library/" ".DS_Store" "../" "./")
+
+ ("/Users/jessebmiller/projects/jessebmiller.com/static/" (20685 5247) "js/" "img/" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/jessebmiller/projects/JasonMichaelPaul/" (20657 45085) "Tiles/" "Source Images/" "Morgue/" "jmppresents/" "Comps/" "../" "./")
+
+ ("/Users/" (20020 35717) "Shared/" "jessebmiller/" ".localized" "../" "./")
+
+ ("/Users/jessebmiller/.solarized/emacs-colors-solarized/" (20728 59286) "README.md" "LICENSE" "color-theme-solarized.el" "../" "./")
+
+ ("/Users/jessebmiller/.solarized/" (20733 58769) "xresources/" "xfce4-terminal-colors-solarized/" "xchat-colors-solarized/" "visualstudio-colors-solarized/" "vim-colors-solarized/" "utils/" "textwrangler-bbedit-colors-solarized/" "textmate-colors-solarized/" "solarized-qtcreator/" "solarized-gedit/" "seestyle-colors-solarized/" "README.md" "putty-colors-solarized/" "osx-terminal.app-colors-solarized/" "netbeans-colors-solarized/" "mutt-colors-solarized/" "LICENSE" "iterm2-colors-solarized/" "intellij-colors-solarized/" "img/" "gimp-palette-solarized/" "files/" "emacs-colors-solarized/" "dircolors-solarized/" "DEVELOPERS.mkd" "CHANGELOG.mkd" "apple-colorpalette-solarized/" "adobe-swatches-solarized/" ".gitmodules" ".git/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
