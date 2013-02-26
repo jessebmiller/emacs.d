@@ -9,49 +9,51 @@
  ("/Users/jessebmiller/projects/jessebmiller.com/" . "static/")
  ("/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/" . "jmppresents/")
  ("/Users/jessebmiller/projects/JasonMichaelPaul/" . "jmppresents/")
- ("/Users/jessebmiller/projects/" . "forgreatgood/")
+ ("/Users/jessebmiller/projects/" . "tyson/")
  ("/Users/" . "jessebmiller/")
  ("/Users/jessebmiller/.solarized/" . "emacs-colors-solarized/")
- ("/Users/jessebmiller/" . "projects/")
+ ("/Users/jessebmiller/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/jessebmiller/projects/forgreatgood/"
+ "/Users/jessebmiller/.emacs.d/"
  "/Users/jessebmiller/projects/tyson/"
+ "/Users/jessebmiller/projects/forgreatgood/"
  "/Users/jessebmiller/projects/jecms/"
  "/Users/jessebmiller/projects/jessebmiller.com/static/js/"
  "/Users/jessebmiller/projects/jecms/static/css/"
  "/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/jmppresents/"
  "/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/"
- "/Users/jessebmiller/.emacs.d/"
  "/Users/jessebmiller/.solarized/emacs-colors-solarized/"
  "/Users/jessebmiller/projects/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "init.el"
+ "tyson.js"
+ "tyson.html"
+ "todo.org"
  "defun.hs"
  "thoughts.org"
  "README.md"
- "tyson.js"
  "content.html"
- "tyson.html"
  "jecms.js"
  "j6m.js"
- "jecms.html"
- "site.less"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/jessebmiller/projects/forgreatgood/" (20755 20272) "../" "./")
+ ("/Users/jessebmiller/.emacs.d/" (20780 22024) "places" "init.el~" "init.el" "elpa/" "backups/" "auto-save-list/" "ac-comphist.dat" ".git/" "../" "./")
+
+ ("/Users/jessebmiller/" (20780 21992) "workspace/" "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last~" ".ido.last" ".gitconfig" ".ghc/" ".gem/" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
+
+ ("/Users/jessebmiller/projects/forgreatgood/" (20765 6924) "defun.o" "defun.hs~" "defun.hs" "defun.hi" "defun" "../" "./")
+
+ ("/Users/jessebmiller/projects/tyson/" (20774 22182) "tyson.html~" "tyson.html" "todo.org" "thoughts.org" "static/" "server/" "README.md" "collections.js" "client/" ".meteor/" ".gitignore~" ".gitignore" ".git/" "#tyson.js#" "../" "./")
 
  ("/Users/jessebmiller/projects/" (20755 20272) "WebType/" "tyson/" "technigami/" "slip/" "old/" "mustache.js/" "lukehaynes.com/" "lukehaynes/" "johnnyattero.com/" "jessebmiller.com/" "jecms.old/" "JasonMichaelPaul/" "import-content/" "gurls/" "google-closure-library/" "gitolite-admin/" "forgreatgood/" "code_pices/" "240x360.psd" ".DS_Store" "../" "./")
-
- ("/Users/jessebmiller/projects/tyson/" (20755 20292) "tyson.js" "tyson.html" "tyson.css" "todo.org" "thoughts.org" "README.md" "content.html" ".meteor/" ".gitignore~" ".gitignore" ".git/" "../" "./")
-
- ("/Users/jessebmiller/.emacs.d/" (20754 36794) "TODO" "starter-kit-ruby.elc" "starter-kit-ruby.el" "starter-kit-registers.elc" "starter-kit-registers.el" "starter-kit-python.elc" "starter-kit-python.el" "starter-kit-perl.elc" "starter-kit-perl.el" "starter-kit-misc.elc" "starter-kit-misc.el" "starter-kit-lisp.elc" "starter-kit-lisp.el" "starter-kit-js.elc" "starter-kit-js.el" "starter-kit-eshell.elc" "starter-kit-eshell.el" "starter-kit-elpa.elc" "starter-kit-elpa.el" "starter-kit-defuns.elc" "starter-kit-defuns.el" "starter-kit-completion.elc" "starter-kit-completion.el" "starter-kit-bindings.elc" "starter-kit-bindings.el" "scripts/" "README.markdown" "python-libs/" "places" "package.elc" "package.el" "loaddefs.el" "init.el" "elpa-to-submit/" "elpa/" "dominating-file.elc" "dominating-file.el" "custom.el" "COPYING" "backups/" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" "#COPYING#" "../" "./")
 
  ("/Users/jessebmiller/projects/jecms/" (20754 36682) "jecms.less" "jecms.js" "jecms.html" ".meteor/" ".#jecms.js" ".#jecms.html" "#jecms.js#" "#jecms.html#" "../" "./")
 
@@ -60,8 +62,6 @@
  ("/Users/jessebmiller/projects/jecms/static/css/" (20752 49018) "site.less" "../" "./")
 
  ("/Users/jessebmiller/projects/jecms/static/" (20752 45384) "js/" "img/" "css/" "../" "./")
-
- ("/Users/jessebmiller/" (20752 47106) "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
 
  ("/User Guides And Information/" (20020 35719) "The FreeType Project License.rtf" "MacBook Air 13-inch Users Guide.pdf" "ENERGY STAR.pdf" "AirPort Extreme and Bluetooth Regulatory Certification.pdf" ".localized/" ".fseventsd/" "../" "./")
 
