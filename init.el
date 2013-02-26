@@ -22,6 +22,8 @@
 (require 'color-theme-solarized)
 (color-theme-solarized-light)
 
+(global-whitespace-mode t)
+
 ;; Highlight matching parentheses when the point is on them.
 (show-paren-mode 1)
 
@@ -64,3 +66,19 @@
   '(progn
      (set-face-foreground 'magit-diff-add "green4")
      (set-face-foreground 'magit-diff-del "red3")))
+
+;; set some key bindings
+(progn
+  (global-set-key (kbd "C-c f") 'find-file-in-project)
+  (global-set-key (kbd "C-c n") 'whitespace-cleanup)
+  (define-key global-map (kbd "C-+") 'text-scale-increase)
+  (define-key global-map (kbd "C--") 'text-scale-decrease)
+  (global-set-key (kbd "C-c q") 'join-line)
+  (global-set-key (kbd "C-c g") 'magit-status)
+
+  ;; Jump to a definition in the current file. (Protip: this is awesome.)
+  (global-set-key (kbd "C-x C-i") 'imenu)
+)
+
+(add-hook 'prog-mode-hook 'flycheck-mode)
+(add-hook 'text-mode-hook 'flycheck-mode)

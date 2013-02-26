@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/jessebmiller/projects/gurls/" . "shows/")
  ("/Users/jessebmiller/projects/jecms/static/" . "css/")
  ("/Users/jessebmiller/projects/jecms/" . "static/")
  ("/" . "Users/")
@@ -9,7 +10,7 @@
  ("/Users/jessebmiller/projects/jessebmiller.com/" . "static/")
  ("/Users/jessebmiller/projects/JasonMichaelPaul/jmppresents/" . "jmppresents/")
  ("/Users/jessebmiller/projects/JasonMichaelPaul/" . "jmppresents/")
- ("/Users/jessebmiller/projects/" . "tyson/")
+ ("/Users/jessebmiller/projects/" . "slip/")
  ("/Users/" . "jessebmiller/")
  ("/Users/jessebmiller/.solarized/" . "emacs-colors-solarized/")
  ("/Users/jessebmiller/" . ".emacs.d/")
@@ -18,6 +19,9 @@
 ;; ----- ido-work-directory-list -----
 (
  "/Users/jessebmiller/.emacs.d/"
+ "/Users/jessebmiller/projects/slip/"
+ "/Users/jessebmiller/projects/import-content/"
+ "/Users/jessebmiller/projects/gurls/shows/"
  "/Users/jessebmiller/projects/tyson/"
  "/Users/jessebmiller/projects/forgreatgood/"
  "/Users/jessebmiller/projects/jecms/"
@@ -32,22 +36,36 @@
 ;; ----- ido-work-file-list -----
 (
  "init.el"
+ "slip.js"
+ "importers.py"
+ "expand.js"
+ "importer_tests.py"
+ "import_content.conf"
+ "jesse-key-bindings.el"
+ "jesse_key_bindings.el"
  "tyson.js"
  "tyson.html"
- "todo.org"
- "defun.hs"
- "thoughts.org"
- "README.md"
- "content.html"
- "jecms.js"
- "j6m.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/jessebmiller/.emacs.d/" (20780 22024) "places" "init.el~" "init.el" "elpa/" "backups/" "auto-save-list/" "ac-comphist.dat" ".git/" "../" "./")
+ ("/Users/jessebmiller/" (20780 28265) "workspace/" "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".pylint.d/" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last~" ".ido.last" ".gitconfig" ".ghc/" ".gem/" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
 
- ("/Users/jessebmiller/" (20780 21992) "workspace/" "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last~" ".ido.last" ".gitconfig" ".ghc/" ".gem/" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
+ ("/Users/jessebmiller/projects/slip/" (20780 28975) "slip.js~" "slip.js" "README.md" ".gitignore~" ".gitignore" ".git/" ".DS_Store" ".#slip.js" "../" "./")
+
+ ("/Users/jessebmiller/projects/import-content/" (20780 28727) "requirements.txt" "README.md" "importers.py~" "importers.pyc" "importers.py" "importer_tests.py~" "importer_tests.py" "import_content.py~" "import_content.py" "import_content.conf~" "import_content.conf" "activate" "__init__.py" ".gitignore" ".git/" ".env/" "../" "./")
+
+ ("/Users/jessebmiller/.emacs.d/" (20780 28014) "places" "init.el" "elpa/" "build/" "backups/" "auto-save-list/" "ac-comphist.dat" ".git/" "#jesse-key-bindings.el#" "../" "./")
+
+ ("/Users/jessebmiller/.emacs.d/elpa/" (20780 28031) "s-20130216.1611/" "pylint-readme.txt" "pylint-20121112.1335/" "magit-readme.txt~" "magit-readme.txt" "magit-20130222.1729/" "ido-ubiquitous-readme.txt~" "ido-ubiquitous-readme.txt" "ido-ubiquitous-20121214.2145/" "flymake-python-pyflakes-readme.txt" "flycheck-readme.txt" "flycheck-20130225.1701/" "dash-20130225.2203/" "color-theme-solarized-20121209.1204/" "color-theme-readme.txt" "color-theme-20080305.834/" "archives/" "../" "./")
+
+ ("/Users/jessebmiller/.emacs.d/elpa/flycheck-20130225.1701/" (20780 28031) "flycheck.info" "flycheck.elc" "flycheck.el" "flycheck-pkg.elc" "flycheck-pkg.el" "flycheck-autoloads.el" "dir" "../" "./")
+
+ ("/Users/jessebmiller/projects/gurls/shows/" (20780 27166) "expand.js~" "expand.js" "../" "./")
+
+ ("/Users/jessebmiller/projects/gurls/" (20696 5715) "shows/" "README.md~" "README.md" "language" "couchapp.json~" "couchapp.json" "_id" ".gitignore" ".git/" ".couchapprc~" ".couchapprc" ".couchappignore~" ".couchappignore" "../" "./")
+
+ ("/Users/jessebmiller/.emacs.d/elpa/pylint-20121112.1335/" (20780 25295) "pylint.elc" "pylint.el" "pylint-pkg.elc" "pylint-pkg.el" "pylint-autoloads.el" "../" "./")
 
  ("/Users/jessebmiller/projects/forgreatgood/" (20765 6924) "defun.o" "defun.hs~" "defun.hs" "defun.hi" "defun" "../" "./")
 
