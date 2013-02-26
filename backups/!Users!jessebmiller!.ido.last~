@@ -13,13 +13,13 @@
  ("/Users/jessebmiller/projects/" . "slip/")
  ("/Users/" . "jessebmiller/")
  ("/Users/jessebmiller/.solarized/" . "emacs-colors-solarized/")
- ("/Users/jessebmiller/" . ".emacs.d/")
+ ("/Users/jessebmiller/" . "projects/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/jessebmiller/.emacs.d/"
  "/Users/jessebmiller/projects/slip/"
+ "/Users/jessebmiller/.emacs.d/"
  "/Users/jessebmiller/projects/import-content/"
  "/Users/jessebmiller/projects/gurls/shows/"
  "/Users/jessebmiller/projects/tyson/"
@@ -35,8 +35,8 @@
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
  "slip.js"
+ "init.el"
  "importers.py"
  "expand.js"
  "importer_tests.py"
@@ -49,9 +49,9 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/jessebmiller/" (20780 28265) "workspace/" "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".pylint.d/" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last~" ".ido.last" ".gitconfig" ".ghc/" ".gem/" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
+ ("/Users/jessebmiller/projects/slip/" (20780 29033) "slip.js~" "slip.js" "README.md" ".gitignore~" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
- ("/Users/jessebmiller/projects/slip/" (20780 28975) "slip.js~" "slip.js" "README.md" ".gitignore~" ".gitignore" ".git/" ".DS_Store" ".#slip.js" "../" "./")
+ ("/Users/jessebmiller/" (20780 29035) "workspace/" "tools/" "Public/" "projects/" "postcard-.jpg" "Pictures/" "Music/" "Movies/" "MorningLightMountain.psd" "morgue/" "Mail/" "Library/" "jesse@192.168.1.6/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "comedy/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump" ".wapi/" ".viminfo" ".Trash/" ".subversion_IDEA/" ".subversion/" ".ssh/" ".sqlite_history" ".solarized/" ".recentf" ".pylint.d/" ".profile~" ".profile" ".pip/" ".oh-my-zsh/" ".macports/" ".ido.last~" ".ido.last" ".gitconfig" ".ghc/" ".gem/" ".emacs.d/" ".ec2/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_history" ".adobe/" "../" "./")
 
  ("/Users/jessebmiller/projects/import-content/" (20780 28727) "requirements.txt" "README.md" "importers.py~" "importers.pyc" "importers.py" "importer_tests.py~" "importer_tests.py" "import_content.py~" "import_content.py" "import_content.conf~" "import_content.conf" "activate" "__init__.py" ".gitignore" ".git/" ".env/" "../" "./")
 
